@@ -3,11 +3,11 @@ owner = 522793997312327726
 
 
 
-prefix = "Q!"
+prefix = "%"
 
 
 
-game = "Q!|Xara Qubad up|"
+game = "%help|Xara Qubad up|"
 
 
 
