@@ -1,13 +1,13 @@
-token = token lera dabne
-owner = id xot
+token = NzY3NzA3NjA3MTI4ODY2ODM2.X411bA.LwTXq2oBDqtRerG1-4PIQoLU7Ts
+owner = 522793997312327726
 
 
 
-prefix = "!"
+prefix = "Q!"
 
 
 
-game = "shtek bnusa bo playing"
+game = "Q!|Xara Qubad up|"
 
 
 
