@@ -1,4 +1,4 @@
-token = NzY3NzA3NjA3MTI4ODY2ODM2.X411bA.LwTXq2oBDqtRerG1-4PIQoLU7Ts
+token = NzEzODUwNDA4NjY5NTQ0NDY4.XsmHAA.ihtlFNBs1uEZbpFyiyvYla9Z_Ss
 owner = 522793997312327726
 
 
@@ -7,7 +7,7 @@ prefix = "%"
 
 
 
-game = "%help|Xara Qubad up|"
+game = "%help|"
 
 
 
