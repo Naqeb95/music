@@ -1,9 +1,9 @@
-token = NzEzODUwNDA4NjY5NTQ0NDY4.XsmHAA.ihtlFNBs1uEZbpFyiyvYla9Z_Ss
-owner = 522793997312327726
+token = MTE4NTczNjIzNTc0NzEyNzM2Ng.GjGuFI.YFAGMDzzY-MO6pM4F2yd2od7ccUxNJFqslL83c
+owner = 
+654767720277082125
 
 
-
-prefix = "%"
+prefix = "k"
 
 
 
