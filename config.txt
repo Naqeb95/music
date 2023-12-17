@@ -28,19 +28,19 @@ searching = "🔎"
 
 
 
-help = help
+help = /help
 
 
 
-npimages = false
+npimages = /false
 
 
 
-stayinchannel = true
+stayinchannel = /true
 
 
 
-maxtime = 0
+maxtime = /0
 
 
 
